@@ -9,3 +9,5 @@
  * Limpieza y tratamiento de datos con consultas SQL
  * Creación de un Modelo Dimensional, tanto físico como lógico
  * Exportación del modelo físico a Tableau para crear dashboards
+
+Las se encuentran disponibles en el siguiente link a Tableau Public: https://public.tableau.com/views/DivorciosINEGI_16718156893970/Divorciosatravesdeltiempoyduracinsocialylegal?:language=en-US&:display_count=n&:origin=viz_share_link
